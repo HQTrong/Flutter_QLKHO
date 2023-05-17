@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675155696323",
+    "project_id": "flutter-2effd",
+    "storage_bucket": "flutter-2effd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675155696323:android:302f2192f07e25f4242076",
+        "android_client_info": {
+          "package_name": "com.kuldiiproject.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675155696323-q2uql5j7md4m3bqb970sv0tgfog7ju9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnGIWmMto7lH-C9fwDnMqMgRzCOyqlwz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675155696323-q2uql5j7md4m3bqb970sv0tgfog7ju9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
